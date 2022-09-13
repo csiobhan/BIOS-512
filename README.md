@@ -5,4 +5,4 @@ Coursework for BIOS 512: Data Science
 - a list
 
 ### Learning to use markdown
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/chuckpr/BIOS512/tree/main/)
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/csiobhan/BIOS-512/tree/main/)
